@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+.heading, .some-space{
+  margin-top: 20px;
+}
+
+.top-10{
+  margin-top: 10px;
+}
+
+body{
+  /*background-color: black;*/
+  background-image: url("../img/math.png");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.container{
+  background-color: white;
+  padding-bottom: 10px;
+}
+
+/*.white{
+  color:white;
+}*/
+
+.bold{
+  font-weight: bold;
+}
+
+
+.btn-black{
+  background-color: black;
+  color:white;
+}
+
+.right{
+  text-align: right;
+}
+
+.top-15{
+  margin-top: 15px;
+}
+
+.top-5{
+  margin-top: 5px;
+}
+
+.btn-trans{
+  background-color: transparent;
+}
+
+.hide{
+  display: none; 
+}
+
+hr{
+  border-color: black;
+}
